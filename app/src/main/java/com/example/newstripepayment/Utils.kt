@@ -1,0 +1,6 @@
+package com.example.newstripepayment
+
+object Utils {
+    const val PUBLISHABLE_KEY ="pk_test_51R9ulDQ46Vko422cOQWlvYZvpvM3EKbOx7h5digl096OHR0cJAn2IrFji2H1qvjaA7Mlh1XopkB3MOGATtZV8wm600dWe3D4gD"
+    const val SECRET_KEY= "sk_test_51R9ulDQ46Vko422cA2BvAH0WSh4aqtYzxMJh48UuTw0RAdky1O6uG0CnzmfhuimDVkI6OlZXBHrqq2ips9g0yHtC00jTq0kUpl"
+}

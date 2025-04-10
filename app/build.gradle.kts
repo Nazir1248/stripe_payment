@@ -84,6 +84,13 @@ dependencies {
 //    implementation ("com.squareup.okhttp3:logging-interceptor:4.12.0")
 
 
+    // ViewModel and Compose integration
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
+    implementation ("androidx.lifecycle:lifecycle-runtime-compose:2.6.2")
+
+    // If you don't have these already
+    implementation ("androidx.activity:activity-compose:1.8.0")
+    implementation ("androidx.compose.runtime:runtime-livedata:1.5.4")
 
 
     implementation ("androidx.activity:activity-compose:1.8.0")
